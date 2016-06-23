@@ -1,0 +1,6 @@
+{
+  "name": "Primer on Doing a Literature Survey",
+  "tagline": "How much hidden code is there in a set of publications?",
+  "body": "### Goal\r\n\r\nA literature survey is a systematic qualitative and/or quantitative analysis of publications in a particular field/discipline with the aim of understanding something about that field/discipline. There are many such studies, and this is intended to help make them relatively more comparable across sampling populations and over time.\r\n\r\nThis documents provides (1) steps on running a literature survey to asses the accessibility of code in an academic publication, and (2) examples and learnings from other such surveys. The steps can (and should) be amended, and the examples expanded.\r\n\r\nThis a living document that welcomes contributions, therefore it is hosted on GitHub. However, recognizing that not everyone who can make an important contribution is familiar with GitHub, please add any contributions as comments on this issue [LINK TBA]\r\n\r\n### Steps for running a literature survey\r\n\r\n1. Identify a sample. Example: 3 different publications from 3 different publishers, for a defined period of time.\r\n\r\nTBC",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
